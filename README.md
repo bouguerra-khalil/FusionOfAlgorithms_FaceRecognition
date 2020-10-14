@@ -6,10 +6,7 @@
 
 #### For a full version of the report and  better graphics visulisation please open this notebook in [google colab environment [Fusion of algorithms for face recognition](https://colab.research.google.com/drive/1obJMHbaiCY82qiV152AzK2OQ4V3ee3ah?usp=sharing)
 ---
-
-
-
-# Introduction 
+ 
 
 
 The increasingly ubiquitous presence of biometric solutions and face recognition in particular in everyday life requires their adaptation for practical scenario. In the presence of several possible solutions, and if global decisions are to be made, each such single solution can be far less efficient than tailoring them to the complexity of an image.
