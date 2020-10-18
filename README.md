@@ -2,9 +2,9 @@
 
 ### Realised By : Khalil Bouguerra 
 <img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/FaceRec.png">
+
+
 ---
-
-
 #### For a full version of the report and  better graphics visulisation please open this notebook in [google colab environment [Fusion of algorithms for face recognition](https://colab.research.google.com/drive/1obJMHbaiCY82qiV152AzK2OQ4V3ee3ah?usp=sharing)
 ---
  
