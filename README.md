@@ -1,6 +1,7 @@
 # **Fusion of algorithms for face recognition**
 
 ### Realised By : Khalil Bouguerra 
+<img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/<FaceRec>.png">
 ---
 
 
